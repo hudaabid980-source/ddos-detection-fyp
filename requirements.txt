@@ -3,4 +3,4 @@ pandas
 numpy
 joblib
 # Must match the version the model was trained/pickled with (the notebook warned: 1.6.1)
-scikit-learn==1.6.1
+scikit-learn
